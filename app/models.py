@@ -18,6 +18,7 @@ class Transaction(db.Model):
 	due_date = db.Column(db.DateTime, index=True)
 	amount = db.Column(db.Float)
 	description = db.Column(db.String)
+	manual_entry_flag = db.Column(db.Boolean)
 	user = db.Column(db.Integer, db.ForeignKey('user.id'))
 
 	def __repr__(self):

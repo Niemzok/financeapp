@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"respon",
+				"respondents"
+			],
+			[
+				"resp",
+				"respondents"
+			],
+			[
+				"answe",
+				"answers"
+			],
+			[
+				"ans",
+				"answers"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"com",
+				"Completed"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"plc",
+				"places"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/justus/Desktop/Questions: interview",
+		"/Users/justus/Documents/development/tabextens/extensions-api/Tutorial/Part_1/readme.md",
+		"/Users/justus/Documents/development/tabextens/extensions-api/Tutorial/Part_1/MarksSelection.js",
+		"/Users/justus/Documents/development/tabextens/extensions-api/Tutorial/Part_1/MarksSelection.html",
+		"/Users/justus/Documents/development/tabextens/extensions-api/Tutorial/Part_1/MarksSelection.css",
+		"/Users/justus/Documents/development/data-integration/data-integration/config_secret.py",
+		"/Users/justus/Documents/development/data-integration/data-integration/config.py",
+		"/Users/justus/Documents/development/data-integration/data-integration/main.py",
+		"/Users/justus/Documents/development/data-integration/data-integration/netigate_caller.py",
+		"/Users/justus/Documents/development/data-integration/data-integration/.gitignore",
+		"/Users/justus/Documents/development/data-integration/data-integration/README.md",
+		"/Users/justus/Documents/development/data-integration/data-integration/dataparse.py",
+		"/Users/justus/Documents/development/data-integration/data-integration/test.py",
+		"/Users/justus/Documents/development/data-integration/data-integration/test.json",
+		"/Users/justus/Documents/development/data-integration/data-integration/createdb.py",
+		"/Users/justus/Documents/development/data-integration/data-integration/transformation.py",
+		"/Users/justus/Desktop/Skript für Keyuserdemo Roche",
+		"/Users/justus/Documents/development/finance/finance.py",
+		"/Users/justus/Documents/development/finance/app/templates/base.html",
+		"/Users/justus/Documents/development/finance/app/templates/index.html",
+		"/Users/justus/Documents/development/finance/config.py",
+		"/Users/justus/Documents/development/finance/app/routes.py",
+		"/Users/justus/Documents/development/finance/app/templates/login.html",
+		"/Users/justus/Documents/development/finance/app/forms.py",
+		"/Users/justus/Documents/development/finance/app/__init__.py",
+		"/private/var/folders/2f/dth1h4s17hbcdfsrc4dk1p640000gp/T/com.microsoft.Excel/Repair Result to Global Superstore0.xml",
+		"/Users/justus/Documents/development/workflow/file.py",
+		"/Users/justus/Documents/development/tableau/awesome-dashboard.twb",
+		"/Users/justus/Box/My Personal Workspace/to the cloud please/Development/udacity/03js/ud989-cat-clicker-ko-starter/js/app.js",
+		"/Users/justus/VirtualBox/Windows 10 (1703)/Windows 10 (1703).vbox",
+		"/Users/justus/Documents/development/gettableau.py",
+		"/Users/justus/Documents/development/getdata.py",
+		"/Users/justus/Documents/development/postslack.py",
+		"/Users/justus/Documents/development/details.html",
+		"/Users/justus/Documents/development/udacity/nbmap/css/style.css",
+		"/Users/justus/Documents/development/udacity/nbmap/js/app.js",
+		"/Users/justus/Documents/development/udacity/nbmap/map.html",
+		"/Users/justus/Documents/development/udacity/nbmap/js/knockout-3.4.2.js",
+		"/Users/justus/Documents/Bkd stuff/=Aus Mastersheet",
+		"/Users/justus/Documents/Bkd stuff/*----- Project Planning BKD -----*",
+		"/Users/justus/Documents/development/place-detail.html",
+		"/Users/justus/Windowsshared/bkdconnect",
+		"/Users/justus/Documents/My Tableau Repository/Datasources/mysql-ssl-file.tdc",
+		"/Users/justus/Windowsshared/key"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 61.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "finance.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
